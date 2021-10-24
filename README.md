@@ -20,12 +20,12 @@
 ### Comparing Cost to Purchase Versus Rental Income - Completed
 ### Neighborhood Map - Completed
 
-### Cost Analysis - Optional Challenge
-####  I was not able to completed this optional challenge because I got stuck on the first part and did not have time to schedule a tutor for assistance.  I provided the code that I would have used if time permitted.
+### Cost Analysis - Optional Challenge - Did not complete optional challenge.
 
 #
 
 ## Part 2 - Dashboard
-### To be completed.
+### Completed.
+
 
 
